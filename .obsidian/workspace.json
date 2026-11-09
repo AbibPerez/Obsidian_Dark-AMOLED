@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "change-font.md",
+                "file": "css_variables/components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "change-font"
+              "title": "components"
             }
           }
         ]
@@ -56,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "css_variables/components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 627.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +187,13 @@
   },
   "active": "d4f3f304e60d2279",
   "lastOpenFiles": [
+    "css_variables/foundations.md",
+    "css_variables/editor.md",
+    "css_variables/components.md",
     "change-font.md",
+    "css_variables/components",
+    "css_variables",
+    "Sin título.md",
     "Dark AMOLED/version-bump.mjs",
     "Dark AMOLED/versions.json",
     "Dark AMOLED/screenshots",
@@ -197,9 +203,7 @@
     "Dark AMOLED/package-lock.json",
     "Dark AMOLED/manifest.json",
     "Dark AMOLED/LICENSE",
-    "Dark AMOLED",
     "README.md",
-    "Sample Theme/versions.json",
     "Sample Theme/README.md"
   ]
 }

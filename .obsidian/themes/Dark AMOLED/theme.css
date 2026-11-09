@@ -1,3 +1,10 @@
+:root {
+	--input-focus-outline: 1px solid Canvas;
+	--input-unfocused-border-color: transparent;
+	--input-disabled-border-color: transparent;
+	--input-hover-border-color: red;
+}
+
 body {
 	--radius-s: 0px;
 	--radius-m: 0px;
@@ -9,11 +16,12 @@ body {
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
 	--font-text-theme: "Tuffy", serif;
+	--ribbon-background: #161616;
 }
 
 .theme-dark {
-	--background-primary: #070707;
-	--background-secondary: #101010;
+	--background-primary: #020202;
+	--background-secondary: #0C0C0C;
 }
 
 .theme-light {
