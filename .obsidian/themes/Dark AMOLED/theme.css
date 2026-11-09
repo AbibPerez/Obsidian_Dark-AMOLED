@@ -11,6 +11,16 @@ body {
 	--font-text-theme: "Tuffy", serif;
 }
 
+.theme-dark {
+	--background-primary: #070707;
+	--background-secondary: #101010;
+}
+
+.theme-light {
+	--background-primary: #D1CFFF;
+	--background-secondary: #8E8CAD;
+}
+
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
 	display: none;
 }
