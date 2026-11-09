@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb0d3cdd8592576",
+        "id": "611bfd483cbb0367",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f3f304e60d2279",
+            "id": "38cc5f158bc7e6be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css_variables/foundations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "foundations"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -172,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 778.5
+    "width": 778.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +182,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d2a6b0d5a4feaa0f",
+  "active": "38cc5f158bc7e6be",
   "lastOpenFiles": [
     "css_variables/editor.md",
-    "css_variables/foundations.md",
     "css_variables/components.md",
+    "2026-11-09.md",
+    "css_variables/foundations.md",
+    "README.md",
     "change-font.md",
     "css_variables/components",
     "css_variables",
@@ -203,7 +202,6 @@
     "Dark AMOLED/package-lock.json",
     "Dark AMOLED/manifest.json",
     "Dark AMOLED/LICENSE",
-    "README.md",
     "Sample Theme/README.md"
   ]
 }
