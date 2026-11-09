@@ -11,10 +11,14 @@
             "id": "d4f3f304e60d2279",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "change-font.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "change-font"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "749059b3b545fe25",
@@ -183,6 +188,7 @@
   },
   "active": "d4f3f304e60d2279",
   "lastOpenFiles": [
+    "change-font.md",
     "Dark AMOLED/version-bump.mjs",
     "Dark AMOLED/versions.json",
     "Dark AMOLED/screenshots",
@@ -195,7 +201,6 @@
     "Dark AMOLED",
     "README.md",
     "Sample Theme/versions.json",
-    "Sample Theme/version-bump.mjs",
     "Sample Theme/README.md"
   ]
 }
