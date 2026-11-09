@@ -1,32 +1,33 @@
 :root {
-	--input-focus-outline: 1px solid Canvas;
-	--input-unfocused-border-color: transparent;
-	--input-disabled-border-color: transparent;
-	--input-hover-border-color: red;
+	--code-font: 'JetBrains Mono', 'Fira Code', 'Cascadia Mono', 'Consolas', 'Chivo Mono', 'Red Hat Mono', 'Ubuntu Mono', monospace;
+	--text-font: 'Tuffy', 'Urbanist', 'Nunito', 'Inclusive Sans', 'Glory', sans-serif;
+	--app-font: 'Inter Tight', 'Figtree', 'Quicksand', 'Reddit Sans Condensed', 'Roboto Condensed', 'Syne', sans-serif;
+	
 }
 
 body {
-	--radius-s: 0px;
-	--radius-m: 0px;
-	--radius-l: 0px;
-	--input-radius: 0px;
-	--tab-radius-active: 0px;
-	--checkbox-radius: 0px;
-	--toggle-radius: 0px;
-	--toggle-thumb-radius: 0px;
-	--slider-thumb-radius: 0px;
-	--font-text-theme: "Tuffy", serif;
-	--ribbon-background: #161616;
+	/* Fonts */
+	--font-interface-theme: var(--app-font);
+	--font-text-theme: var(--text-font);
+	--font-monospace-theme: var(--code-font);
+	
+	/* Background colors */
+	
 }
 
 .theme-dark {
 	--background-primary: #020202;
+	--background-primary-alt: #1F1F1F;
 	--background-secondary: #0C0C0C;
+	--ribbon-background: #1A1A1A;
+	--color-accent: #179FFF;
 }
 
 .theme-light {
 	--background-primary: #D1CFFF;
 	--background-secondary: #8E8CAD;
+	--ribbon-background: #4B4A5C;
+	--color-accent: #179FFF;
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {

@@ -27,11 +27,11 @@ The base colors is a neutral color palette ranging from light to dark. These val
 
 The accent color is used to draw attention to interactive elements, such as links and primary buttons, and can be overridden by the user under **Settings → Appearance** in the Obsidian app.
 
-|Variable|Default value|Description|
-|---|---|---|
-|`--accent-h`|`258`|Accent hue|
-|`--accent-s`|`88%`|Accent saturation|
-|`--accent-l`|`66%`|Accent lightness|
+| Variable     | Default value | Description       |
+| ------------ | ------------- | ----------------- |
+| `--accent-h` | `258`         | Accent hue        |
+| `--accent-s` | `88%`         | Accent saturation |
+| `--accent-l` | `66%`         | Accent lightness  |
 
 `--accent-h`, `--accent-s`, and `--accent-l` combine into the following accent color variables:
 
