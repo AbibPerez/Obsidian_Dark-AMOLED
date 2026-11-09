@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "611bfd483cbb0367",
+        "id": "1737cf9efb143651",
         "type": "tabs",
         "children": [
           {
-            "id": "38cc5f158bc7e6be",
+            "id": "d8d39343d876ea7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,12 +182,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "38cc5f158bc7e6be",
+  "active": "d8d39343d876ea7c",
   "lastOpenFiles": [
-    "css_variables/editor.md",
     "css_variables/components.md",
-    "2026-11-09.md",
     "css_variables/foundations.md",
+    "css_variables/editor.md",
+    "2026-11-09.md",
     "README.md",
     "change-font.md",
     "css_variables/components",
